@@ -19,6 +19,8 @@
  - ⚡ Визуализация данных (Tableau, PowerPoint);
  - ⚡ Excel (формулы, сводные таблицы, визуализация).
 
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzdmMmYxM2E1ZDYyOWYxZmY3ZjM3MzRmY2Q5ZDA3YjUzNTlkOWI3ZiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/JkVnfE54QdOMQBxmHg/giphy.gif" width="100px">
+
 ---
 
 ### 🤝 Социальные сети:
