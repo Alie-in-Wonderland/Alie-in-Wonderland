@@ -9,7 +9,7 @@
 Недавно я закончила обучение в Яндекс.Практикуме по профессии "Аналитик данных", сейчас прохожу курс "Data Science с Глебом Михайловым". Мир больших данных я нахожу очень увлекательным, 
 люблю находить взаимосвязи, проверять гипотезы и красиво визуализировать результаты своего исследования. Ранее я работала в Телекоме и банке, сейчас нахожусь в поиске работы по аналитике.
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGJiMzM1NTIxYjI4NzI5ZTJlNmY1ZGNlZjQzMjY2MzYwOTQ3MzM0NCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/VeNDat4n4Kre76oS1g/giphy.gif" width="500px">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGJiMzM1NTIxYjI4NzI5ZTJlNmY1ZGNlZjQzMjY2MzYwOTQ3MzM0NCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/VeNDat4n4Kre76oS1g/giphy.gif" width="500px" height="50">
 
 ---
 
