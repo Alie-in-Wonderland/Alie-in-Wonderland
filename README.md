@@ -5,7 +5,7 @@
 
 ### :man_technologist: Обо мне:
 
-Я начинающий data analist <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGIzOGJiODA2ZGRiMTMzMDhhNjMxNGM3ZDBiMDNkMmEyYmVjNzVkMSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/f6hnhHkks8bk4jwjh3/giphy.gif" width="30px">. 
+Я начинающий data analist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. 
 Недавно я закончила обучение в Яндекс.Практикуме по профессии "Аналитик данных", сейчас прохожу курс "Data Science с Глебом Михайловым". Мир больших данных я нахожу очень увлекательным, 
 люблю находить взаимосвязи, проверять гипотезы и красиво визуализировать результаты своего исследования. Ранее я работала в Телекоме и банке, сейчас нахожусь в поиске работы по аналитике.
 
